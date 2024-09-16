@@ -1,4 +1,4 @@
-# AKHIL BODAHANAPATI:
+# 🧑🏽‍💻 AKHIL BODAHANAPATI:
 Hi, my name is Akhil Bodahanapati. I’m a Software Engineer based in Pittsburgh, currently studying at the University of Pittsburgh, pursuing a Bachelor of Science in Computer Science and Data Science. <br>I’ve gained valuable experience as a Full Stack Developer at STAR Hospitals, the largest hospital in Hyderabad, where I co-developed applications to optimize healthcare efficiency. <br>Over the past year, I’ve worked as a Software Engineering Intern, contributing to various applications that significantly improved both the quality and speed of services and transactions.<br>In the summer of 2025, I’m seeking an internship that will allow me to continue learning while making a meaningful impact within the company.
 
 
