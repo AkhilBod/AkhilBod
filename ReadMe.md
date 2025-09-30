@@ -1,9 +1,9 @@
 # AKHIL BODAHANAPATI:
-Hey there! I'm a Software Engineer based in Pittsburgh, working on my Bachelor's in Computer Science and Data Science at Pitt. I love building tech that actually makes a difference, and I've been lucky enough to get my hands dirty with full-stack development across a few different industries already.
-I spent some time at STAR Hospitals as a Full Stack Developer, where I helped create apps that made healthcare operations run smoother. These days, I'm diving into quantum computing research at Pitt's School of Computing and Information, playing with quantum routing algorithms in NetSquid (pretty cool stuff!).
-This coming summer, I'll be joining Federated Hermes as an Integration Developer Intern, focusing on API development and creating data visualizations. I'm always on the lookout for new opportunities to sharpen my tech skills while working on projects that matter.
+Hey there! I'm a Software Engineer based in Pittsburgh, currently a sophomore pursuing my Bachelor's in Computer Science and Data Science at Pitt. I love building tech that actually makes a difference, and I've been lucky enough to get my hands dirty with full-stack development across a few different industries already.
 
+I spent some time at STAR Hospitals as a Full Stack Developer, where I helped create apps that made healthcare operations run smoother. I also dove into quantum computing research at Pitt's School of Computing and Information, working on quantum routing algorithms in NetSquid (pretty cool stuff!).
 
+Most recently, I worked at **Federated Hermes** as an Integration Developer Intern, where I focused on API development and building data visualizations to support business operations. I'm always on the lookout for new opportunities to sharpen my tech skills while working on projects that matter.
 
 
 ## 🌐 Socials:
