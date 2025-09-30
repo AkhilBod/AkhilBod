@@ -3,7 +3,7 @@ Hey there! I'm a Software Engineer based in Pittsburgh, currently a sophomore pu
 
 I spent some time at STAR Hospitals as a Full Stack Developer, where I helped create apps that made healthcare operations run smoother. I also dove into quantum computing research at Pitt's School of Computing and Information, working on quantum routing algorithms in NetSquid (pretty cool stuff!).
 
-Most recently, I worked at **Federated Hermes** as an Integration Developer Intern, where I focused on API development and building data visualizations to support business operations. I'm always on the lookout for new opportunities to sharpen my tech skills while working on projects that matter.
+Most recently, I worked at **Federated Hermes** as an Software Engineer Intern, where I focused on API development and building data visualizations to support business operations. I'm always on the lookout for new opportunities to sharpen my tech skills while working on projects that matter.
 
 
 ## 🌐 Socials:
