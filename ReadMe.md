@@ -1,6 +1,4 @@
 <h1 align="center">Akhil Bodahanapati</h1>
-<h3 align="center">Software Engineer • Data Science @ Pitt</h3>
-
 
 ### Code Snapshot
 
@@ -10,7 +8,7 @@ class Akhil:
         self.name = "Akhil Bodahanapati"
         self.role = "Software Engineer"
         self.location = "Pittsburgh, PA"
-        self.focus = ["Data Engineering", "Full-Stack Systems", "AI-driven Apps"]
+        self.focus = ["Data Science", "Full-Stack", "Backend"]
         self.current = "Building projects that connect code with impact"
 
     def __str__(self):
@@ -24,13 +22,10 @@ print(Akhil())
 I’m a **Software Engineer based in Pittsburgh** and a **sophomore at the University of Pittsburgh**, majoring in **Computer Science and Data Science**.  
 I love building systems that feel effortless — products that blend engineering precision with real-world impact.
 
-- Software Engineer Intern @ **Federated Hermes** — built APIs and data visualization tools for large-scale business intelligence.  
-- Full Stack Developer @ **STAR Hospitals** — created internal healthcare applications to streamline operations.  
-- Researcher @ **Pitt SCI** — worked on **quantum routing algorithms** using **NetSquid** (yep, real quantum networking).  
+- Software Engineer Intern @ **Federated Hermes** 
+- Full Stack Developer @ **STAR Hospitals** 
+- Researcher @ **Pitt SCI** 
 - Currently experimenting with **AI-powered trading systems** and **asynchronous data-driven web apps**.
-
-> I build things that matter — and I like when they run fast.
-
 ---
 
 ### Tech Stack
