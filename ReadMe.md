@@ -1,10 +1,22 @@
 <h1 align="center">Akhil Bodahanapati</h1>
 <h3 align="center">Software Engineer • Data Science @ Pitt</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
 
+### Code Snapshot
+
+```python
+class Akhil:
+    def __init__(self):
+        self.name = "Akhil Bodahanapati"
+        self.role = "Software Engineer"
+        self.location = "Pittsburgh, PA"
+        self.focus = ["Data Engineering", "Full-Stack Systems", "AI-driven Apps"]
+        self.current = "Building projects that connect code with impact"
+
+    def __str__(self):
+        return f"{self.name} | {self.role} | {self.location}"
+
+print(Akhil())
 ---
 
 ### About Me
@@ -49,18 +61,4 @@ On the side, I post short, straight-to-the-point videos on **TikTok** explaining
 
 ---
 
-### Code Snapshot
 
-```python
-class Akhil:
-    def __init__(self):
-        self.name = "Akhil Bodahanapati"
-        self.role = "Software Engineer"
-        self.location = "Pittsburgh, PA"
-        self.focus = ["Data Engineering", "Full-Stack Systems", "AI-driven Apps"]
-        self.current = "Building projects that connect code with impact"
-
-    def __str__(self):
-        return f"{self.name} | {self.role} | {self.location}"
-
-print(Akhil())
