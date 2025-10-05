@@ -41,21 +41,11 @@ I love building systems that feel effortless — products that blend engineering
 
 ---
 
-### Projects & Interests
-
-- **InterviewSense** — an AI-driven interview feedback app that breaks down performance, keyword usage, and next-step insights.  
-- **FoodVision** — computer vision + NLP hackathon project that identifies foods using TensorFlow and suggests recipes via the Spoonacular API.  
-- **Trading Bots** — indicator-based systems built with Python for algorithmic trading simulations.  
-
-On the side, I post short, straight-to-the-point videos on **TikTok** explaining data structures and LeetCode problems — now at **18K+ followers** and counting.
-
----
-
 ### Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhil-bod/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bodahanapati.akhil@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:akkiisan9@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/akhilbod"><img src="https://img.shields.io/github/followers/akhilbod?label=GitHub&style=social"/></a>
 </p>
 
