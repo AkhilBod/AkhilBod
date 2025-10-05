@@ -17,8 +17,8 @@ class Akhil:
         return f"{self.name} | {self.role} | {self.location}"
 
 print(Akhil())
+```
 ---
-
 ### About Me
 
 I’m a **Software Engineer based in Pittsburgh** and a **sophomore at the University of Pittsburgh**, majoring in **Computer Science and Data Science**.  
