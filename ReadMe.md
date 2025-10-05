@@ -1,16 +1,66 @@
-# AKHIL BODAHANAPATI:
-Hey there! I'm a Software Engineer based in Pittsburgh, currently a sophomore pursuing my Bachelor's in Computer Science and Data Science at Pitt. I love building tech that actually makes a difference, and I've been lucky enough to get my hands dirty with full-stack development across a few different industries already.
+<h1 align="center">Akhil Bodahanapati</h1>
+<h3 align="center">Software Engineer • Data Science @ Pitt</h3>
 
-I spent some time at STAR Hospitals as a Full Stack Developer, where I helped create apps that made healthcare operations run smoother. I also dove into quantum computing research at Pitt's School of Computing and Information, working on quantum routing algorithms in NetSquid (pretty cool stuff!).
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
 
-Most recently, I worked at **Federated Hermes** as an Software Engineer Intern, where I focused on API development and building data visualizations to support business operations. I'm always on the lookout for new opportunities to sharpen my tech skills while working on projects that matter.
+---
 
+### About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/akhil-bod) 
+I’m a **Software Engineer based in Pittsburgh** and a **sophomore at the University of Pittsburgh**, majoring in **Computer Science and Data Science**.  
+I love building systems that feel effortless — products that blend engineering precision with real-world impact.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- Software Engineer Intern @ **Federated Hermes** — built APIs and data visualization tools for large-scale business intelligence.  
+- Full Stack Developer @ **STAR Hospitals** — created internal healthcare applications to streamline operations.  
+- Researcher @ **Pitt SCI** — worked on **quantum routing algorithms** using **NetSquid** (yep, real quantum networking).  
+- Currently experimenting with **AI-powered trading systems** and **asynchronous data-driven web apps**.
 
+> I build things that matter — and I like when they run fast.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,flask,sqlite,html,css,linux,git&theme=dark" />
+</p>
+
+---
+
+### Projects & Interests
+
+- **InterviewSense** — an AI-driven interview feedback app that breaks down performance, keyword usage, and next-step insights.  
+- **FoodVision** — computer vision + NLP hackathon project that identifies foods using TensorFlow and suggests recipes via the Spoonacular API.  
+- **Trading Bots** — indicator-based systems built with Python for algorithmic trading simulations.  
+
+On the side, I post short, straight-to-the-point videos on **TikTok** explaining data structures and LeetCode problems — now at **18K+ followers** and counting.
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhil-bod/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bodahanapati.akhil@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/akhilbod"><img src="https://img.shields.io/github/followers/akhilbod?label=GitHub&style=social"/></a>
+</p>
+
+---
+
+### Code Snapshot
+
+```python
+class Akhil:
+    def __init__(self):
+        self.name = "Akhil Bodahanapati"
+        self.role = "Software Engineer"
+        self.location = "Pittsburgh, PA"
+        self.focus = ["Data Engineering", "Full-Stack Systems", "AI-driven Apps"]
+        self.current = "Building projects that connect code with impact"
+
+    def __str__(self):
+        return f"{self.name} | {self.role} | {self.location}"
+
+print(Akhil())
