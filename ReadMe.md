@@ -16,14 +16,3 @@ class Akhil:
 
 print(Akhil())
 ```
----
-### About Me
-
-I’m a **Software Engineer based in Pittsburgh** and a **sophomore at the University of Pittsburgh**, majoring in **Computer Science and Data Science**.  
-I love building systems that feel effortless — products that blend engineering precision with real-world impact.
-
-- Software Engineer Intern @ **Federated Hermes** 
-- Software Engineer Intern @ **STAR Hospitals** 
-- Researcher @ **Pitt SCI** 
-- Currently experimenting with **AI-powered trading systems** and **asynchronous data-driven web apps**.
----
